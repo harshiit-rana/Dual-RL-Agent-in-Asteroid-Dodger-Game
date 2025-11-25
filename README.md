@@ -2,6 +2,15 @@
 
 **A self-regulating Reinforcement Learning environment where a Pilot Agent learns to survive while a Difficulty Agent learns to optimize the challenge.**
 
+## ** Team Members-**
+Harshit Rana - 23CSU120
+Harsh yadav - 
+Harshit
+Hardyanshu
+| Name | Roll No. |
+| :---- | :---- |
+| **Harshit Rana** | 23CSU120 |
+
 ## **📖 Overview**
 
 This project implements a **Dual-Agent Reinforcement Learning system** for a custom Asteroid Dodger game. Unlike traditional RL environments with static difficulty, this system employs two distinct agents that co-adapt:
