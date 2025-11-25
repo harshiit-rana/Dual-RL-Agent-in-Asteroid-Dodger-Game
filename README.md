@@ -60,7 +60,7 @@ Asteroid\_Dodger\_RL/
 
 Ensure you have Python installed. Clone the repository and install dependencies:
 
-git clone \[https://github.com/harshiit-rana/asteroid-dodger-rl.git\](https://github.com/harshiit-rana/asteroid-dodger-rl.git)  
+git clone \[https://github.com/harshiit-rana/Dual-RL-Agent-in-Asteroid-Dodger-Game\]  
 cd asteroid-dodger-rl  
 pip install \-r requirements.txt
 
