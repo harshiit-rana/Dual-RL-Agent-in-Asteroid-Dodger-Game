@@ -3,10 +3,7 @@
 **A self-regulating Reinforcement Learning environment where a Pilot Agent learns to survive while a Difficulty Agent learns to optimize the challenge.**
 
 ## ** Team Members-**
-Harshit Rana - 23CSU120
-Harsh yadav - 
-Harshit
-Hardyanshu
+
 | Name | Roll No. |
 | :---- | :---- |
 | **Harshit Rana** | 23CSU120 |
