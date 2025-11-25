@@ -39,8 +39,8 @@ Training over 1000+ episodes demonstrates a clear transition from random explora
 | Training Phase | Exploration (ϵ) | Avg Score | Behavior Observed |
 | :---- | :---- | :---- | :---- |
 | **Early (Ep 200\)** | High (\~0.37) | \~610 | High variance, erratic movement, frequent crashes. |
-| **Mid (Ep 600\)** | Low (\~0.05) | \~614 | Learning safe zones, but struggles with high-speed clusters. |
-| **Final (Ep 1000+)** | Minimal (0.01) | **\~783** | **Stable Policy:** Efficient dodging, maximized survival time. |
+| **Mid (Ep 600\)** | Low (\~0.05) | \~900 | Learning safe zones, but struggles with high-speed clusters. |
+| **Final (Ep 1000+)** | Minimal (0.01) | **\~2100** | **Stable Policy:** Efficient dodging, maximized survival time. |
 
 ## **📂 Project Structure**
 
