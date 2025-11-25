@@ -2,7 +2,7 @@
 
 **A self-regulating Reinforcement Learning environment where a Pilot Agent learns to survive while a Difficulty Agent learns to optimize the challenge.**
 
-## ** Team Members- **
+##  Team Members- 
 
 | Name | Roll No. |
 | :---- | :---- |
